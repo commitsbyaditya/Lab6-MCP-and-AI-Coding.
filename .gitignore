@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets / local config
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Temp files from the notes server's atomic writes
+.notes-*.tmp
+
+# Test / tooling caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Logs
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Lab report documents (submitted separately, not part of the repo)
+Lab6_1RVU23CSE029_WWLLM.docx
+Lab6_1RVU23CSE469_WWLLM.docx
+~$*.docx

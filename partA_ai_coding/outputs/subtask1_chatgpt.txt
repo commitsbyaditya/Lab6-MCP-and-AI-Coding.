@@ -1,0 +1,20 @@
+How many students? 5
+Enter name of student 1: Aditya
+Enter mark for Aditya (0‑100): 78
+Enter name of student 2: Priya
+Enter mark for Priya (0‑100): 64
+Enter name of student 3: Rohan
+Enter mark for Rohan (0‑100): 35
+Enter name of student 4: Sneha
+Enter mark for Sneha (0‑100): 91
+Enter name of student 5: Karan
+Enter mark for Karan (0‑100): 29
+
+--- Class Summary ---
+Total students: 5
+Class average: 59.40
+Topper: Sneha (91.0)
+
+Students who scored below 40:
+  Rohan – 35.0
+  Karan – 29.0

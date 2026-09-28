@@ -1,0 +1,5 @@
+{
+  "model": "pollinations:openai (keyless, gpt-oss-20b)",
+  "time": "2026-09-28T23:40:21",
+  "prompt": "The following Python code is giving an error. Please debug it, explain the mistake, and provide corrected code.\n\ndef average_marks(marks):\n    total = 0\n    for mark in marks:\n        total = total + mark\n    return total / len(marks)\n\nstudents = {\n    \"Asha\": 85,\n    \"Rahul\": 72,\n    \"Meena\": 38\n}\n\navg = average_marks(students)\nprint(\"Average marks:\", avg)"
+}

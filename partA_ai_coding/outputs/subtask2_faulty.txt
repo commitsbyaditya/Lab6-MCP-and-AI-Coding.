@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "subtask2_faulty.py", line 13, in <module>
+    avg = average_marks(students)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "subtask2_faulty.py", line 4, in average_marks
+    total = total + mark
+            ~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'int' and 'str'

@@ -1,0 +1,11 @@
+Skipped Divya: marks must be between 0 and 100.
+----- Student Marks -----
+Asha       85
+Rahul      38
+Meena      92
+Kiran      25
+Vikram     71
+
+Class average : 62.20
+Topper        : Meena (92)
+Below 40      : Rahul (38), Kiran (25)

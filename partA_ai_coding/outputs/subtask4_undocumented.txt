@@ -1,0 +1,4 @@
+calculate_average -> 71.5
+get_topper        -> ('Vikram', 91)
+get_failed_students -> ['Meena']
+

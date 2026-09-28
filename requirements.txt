@@ -1,0 +1,6 @@
+mcp[cli]>=1.2,<2
+httpx
+streamlit
+rich
+pytest
+pytest-asyncio

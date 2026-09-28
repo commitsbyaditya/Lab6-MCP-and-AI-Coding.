@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "content": "Project deadline for the LLM lab (CS3235 Lab 6) is Friday 25 Sept, submit GitHub URL + screenshots on the course portal.",
+    "tags": [
+      "project",
+      "deadline",
+      "cs3235"
+    ],
+    "created_at": "2026-09-20T10:15:00+05:30",
+    "updated_at": "2026-09-20T10:15:00+05:30"
+  },
+  {
+    "id": 2,
+    "content": "Meeting with Prof. Rao on Tuesday 4 PM in Lab 3: discuss mini-project topic (RAG over lecture notes) and bring the literature survey draft.",
+    "tags": [
+      "meeting",
+      "professor",
+      "project"
+    ],
+    "created_at": "2026-09-21T18:40:00+05:30",
+    "updated_at": "2026-09-21T18:40:00+05:30"
+  },
+  {
+    "id": 3,
+    "content": "Groceries: milk, eggs, bread, bananas, Maggi, coffee powder, and dish soap. Pick up from the campus store before 9 PM.",
+    "tags": [
+      "groceries",
+      "shopping"
+    ],
+    "created_at": "2026-09-22T08:05:00+05:30",
+    "updated_at": "2026-09-22T08:05:00+05:30"
+  },
+  {
+    "id": 4,
+    "content": "Book recommendation from Ananya: 'Designing Machine Learning Systems' by Chip Huyen - good for understanding ML deployment and data pipelines.",
+    "tags": [
+      "books",
+      "recommendation",
+      "ml"
+    ],
+    "created_at": "2026-09-23T21:30:00+05:30",
+    "updated_at": "2026-09-23T21:30:00+05:30"
+  }
+]

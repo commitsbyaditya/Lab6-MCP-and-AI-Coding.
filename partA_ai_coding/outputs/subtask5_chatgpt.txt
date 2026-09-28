@@ -1,0 +1,82 @@
+
+--- Student Marks Management System ---
+1. Add a student
+2. Show average mark
+3. Show topper
+4. List students below 40
+5. Exit
+Enter your choice (1‑5): 1
+Student name: Asha
+Mark (0‑100): 85
+Added Asha with mark 85.0.
+
+--- Student Marks Management System ---
+1. Add a student
+2. Show average mark
+3. Show topper
+4. List students below 40
+5. Exit
+Enter your choice (1‑5): 1
+Student name: Rahul
+Mark (0‑100): 38
+Added Rahul with mark 38.0.
+
+--- Student Marks Management System ---
+1. Add a student
+2. Show average mark
+3. Show topper
+4. List students below 40
+5. Exit
+Enter your choice (1‑5): 1
+Student name: Meena
+Mark (0‑100): 92
+Added Meena with mark 92.0.
+
+--- Student Marks Management System ---
+1. Add a student
+2. Show average mark
+3. Show topper
+4. List students below 40
+5. Exit
+Enter your choice (1‑5): 1
+Student name: Kiran
+Mark (0‑100): 25
+Added Kiran with mark 25.0.
+
+--- Student Marks Management System ---
+1. Add a student
+2. Show average mark
+3. Show topper
+4. List students below 40
+5. Exit
+Enter your choice (1‑5): 2
+Average mark: 60.00
+
+--- Student Marks Management System ---
+1. Add a student
+2. Show average mark
+3. Show topper
+4. List students below 40
+5. Exit
+Enter your choice (1‑5): 3
+Topper: Meena with mark 92.0
+
+--- Student Marks Management System ---
+1. Add a student
+2. Show average mark
+3. Show topper
+4. List students below 40
+5. Exit
+Enter your choice (1‑5): 4
+Students below 40:
+  Rahul – 38.0
+  Kiran – 25.0
+
+--- Student Marks Management System ---
+1. Add a student
+2. Show average mark
+3. Show topper
+4. List students below 40
+5. Exit
+Enter your choice (1‑5): 5
+Goodbye!

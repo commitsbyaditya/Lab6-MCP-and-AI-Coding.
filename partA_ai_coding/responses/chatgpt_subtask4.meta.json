@@ -1,0 +1,5 @@
+{
+  "model": "pollinations:openai (keyless, gpt-oss-20b)",
+  "time": "2026-09-28T23:41:24",
+  "prompt": "Add clear documentation to the following Python code.\nInclude:\n1. Function-level docstrings.\n2. Simple inline comments.\n3. A short README-style explanation.\n4. Keep the explanation suitable for undergraduate students.\n\ndef calculate_average(student_marks):\n    return sum(student_marks.values()) / len(student_marks)\n\ndef get_topper(student_marks):\n    topper = max(student_marks, key=student_marks.get)\n    return topper, student_marks[topper]\n\ndef get_failed_students(student_marks):\n    return [\n        student\n        for student, marks in student_marks.items()\n        if marks < 40\n    ]"
+}

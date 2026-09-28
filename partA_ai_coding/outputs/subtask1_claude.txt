@@ -1,0 +1,15 @@
+Enter number of students: 5
+Name of student 1: Aditya
+Marks of Aditya: 78
+Name of student 2: Priya
+Marks of Priya: 64
+Name of student 3: Rohan
+Marks of Rohan: 35
+Name of student 4: Sneha
+Marks of Sneha: 91
+Name of student 5: Karan
+Marks of Karan: 29
+
+Class Average: 59.4
+Topper: Sneha with 91.0 marks
+Students below 40: Rohan, Karan

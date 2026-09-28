@@ -1,0 +1,15 @@
+calculate_average -> 71.5
+get_topper        -> ('Vikram', 91)
+get_failed_students -> ['Meena']
+
+Help on function calculate_average in module __main__:
+
+calculate_average(student_marks)
+    Calculate the class average.
+
+    Args:
+        student_marks (dict): Student name -> marks.
+
+    Returns:
+        float: The average of all the marks.
+

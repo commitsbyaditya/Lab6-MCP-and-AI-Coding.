@@ -1,0 +1,5 @@
+{
+  "model": "pollinations:openai (keyless, gpt-oss-20b)",
+  "time": "2026-09-28T23:40:49",
+  "prompt": "Refactor the following Python code.\nGoals:\n1. Improve readability.\n2. Use functions.\n3. Use meaningful variable names.\n4. Avoid repeated logic.\n5. Keep it simple for undergraduate students.\n\nstudents = {\n    \"Asha\": 85,\n    \"Rahul\": 72,\n    \"Meena\": 38,\n    \"Vikram\": 91\n}\n\ntotal = 0\nfor s in students:\n    total = total + students[s]\navg = total / len(students)\nprint(\"Average:\", avg)\n\ntop = \"\"\ntop_marks = 0\nfor s in students:\n    if students[s] > top_marks:\n        top = s\n        top_marks = students[s]\nprint(\"Topper:\", top)\n\nfor s in students:\n    if students[s] < 40:\n        print(s, \"has failed\")"
+}

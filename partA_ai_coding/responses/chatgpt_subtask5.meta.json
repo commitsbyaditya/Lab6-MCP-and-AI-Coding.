@@ -1,0 +1,5 @@
+{
+  "model": "pollinations:openai (keyless, gpt-oss-20b)",
+  "time": "2026-09-28T23:42:12",
+  "prompt": "Create a Python program for a student marks management system.\nThe program should:\n1. Store student names and marks.\n2. Calculate average marks.\n3. Find the topper.\n4. List students below 40.\n5. Use functions.\n6. Add comments and docstrings.\n7. Keep the code beginner-friendly."
+}
